@@ -10,3 +10,14 @@
     background-color: #333;
     opacity: 40%;
 }
+
+.card {
+    width: 70%;
+}
+
+.fixed-bottom {
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
